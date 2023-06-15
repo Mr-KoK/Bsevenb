@@ -1,54 +1,103 @@
-# Mehrdad Hajiyani
+# BsevenB Next.js Application
 
-![Profile Image](profile-image.jpg)
+![BsevenB Logo](bsvenb-logo.png)
 
-## Full Stack PHP Laravel and WordPress Developer | Node.js Enthusiast | Deployer Expert
+## About
 
-Welcome to my GitHub profile! I'm Mehrdad Hajiyani, a passionate full-stack developer with expertise in PHP, Laravel, WordPress, Node.js, and Deployer. With a strong background in web development and a focus on delivering high-quality solutions, I strive to create efficient and scalable applications.
-
-![Divider Animation](divider-animation.gif)
-
-## Skills and Expertise
-
-- **Programming Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks:** Laravel, WordPress, Node.js, Express.js
-- **Database:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Deployment:** Deployer, CI/CD
+Welcome to the BsevenB Next.js Application! This project leverages the power of Next.js, a React framework, to deliver a high-performance and scalable web application. With expertise in full-stack development and a focus on optimizing user experiences, I bring valuable skills to the BsevenB team.
 
 ![Divider Animation](divider-animation.gif)
 
-## Projects
+## Experience
 
-### Project 1: E-commerce Website (Laravel)
-- Developed a fully functional e-commerce website using Laravel framework.
-- Integrated payment gateways, shopping cart functionality, and order management.
-- Implemented user authentication and role-based access control (RBAC) for seamless user experience.
+### Full Stack Developer
+YOUGOU Electronic Technology Co., Ltd.
+Aug 2021 - Present (1 year 10 months)
 
-### Project 2: WordPress Theme Customization
-- Customized WordPress themes to meet specific client requirements.
-- Implemented responsive design, plugin integration, and optimized performance.
-- Developed custom plugins to extend WordPress functionality.
+- Implemented responsive web pages using HTML5, SCSS, Bootstrap, and jQuery.
+- Developed RESTful APIs to handle client-server communication.
+- Built Member dashboard using the Svelte framework (admin.yougoelec.com).
+- Optimized on-page SEO and performance using tools like Lighthouse.
+- Collaborated with a team using Git for project management.
 
-### Project 3: Node.js RESTful API (Express.js)
-- Created a RESTful API using Express.js and MongoDB as the database.
-- Implemented CRUD operations, authentication, and data validation.
-- Ensured API security and performance optimization.
+### Full Stack Developer
+UTTER VISION
+Mar 2022 - Present (1 year 3 months)
+
+- Translated Adobe XD designs into interactive web pages using HTML5, SCSS, Bootstrap, and jQuery.
+- Designed and implemented database architecture using the Eloquent model.
+- Developed RESTful APIs and incorporated queuing for jobs and notifications.
+- Created dashboards with role-based access control (Admin, Members, Partners) and authentication.
+- Optimized software response speed through user-side request optimizations.
+
+### Full-stack Developer
+buybestelectronic
+Jan 2019 - Present (4 years 5 months)
+
+- Implemented web pages based on Adobe XD designs using HTML5, SCSS, Bootstrap, and jQuery.
+- Created controllers, routes, and utilized the PHP Arata framework for page rendering.
+- Improved on-page SEO and performance using optimization techniques.
+- Employed Git for effective team project management.
+
+### Full-stack Developer
+Zodcom
+Mar 2021 - Present (2 years 3 months)
+
+- Developed web pages using HTML5, SCSS, Bootstrap, and jQuery.
+- Designed and implemented database architecture using the Eloquent model.
+- Built RESTful APIs and implemented queuing for jobs and notifications.
+- Created Member dashboard using the Vue.js framework (admin.zodcom.com).
+- Enhanced software response speed through user-side request optimizations.
+
+### Frontend Developer
+OGRIX Inc.
+Oct 2015 - Present (7 years 8 months)
+
+- Designed and developed WordPress templates using HTML, CSS, jQuery, and JavaScript.
+- Utilized Duda platform for website development.
+
+### Website Developer
+شرکت وب چاره | Co Webchare
+Mar 2015 - Oct 2019 (4 years 8 months)
+
+- Implemented Razor pages in ASP.NET MVC.
+- Performed content and structural SEO optimization.
 
 ![Divider Animation](divider-animation.gif)
 
-## GitHub Stats
+## Education
 
-![GitHub Stats](github-stats.gif)
+Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch
+Bachelor's degree, Computer Hardware Engineering
+Aug 2014 - Apr 2020
 
-## Connect with Me
+![University Logo](university-logo.png)
 
-Feel free to connect with me on LinkedIn or reach out via email.
+![Divider Animation](divider-animation.gif)
+
+## Skills
+
+- Next.js
+- React
+- HTML5
+- CSS
+- SCSS
+- Bootstrap
+- JavaScript
+- jQuery
+- RESTful APIs
+- Database Design (Eloquent model)
+- Git
+- Search Engine Optimization (SEO)
+- Agile Methodologies (Scrum)
+- Jira
+
+![Divider Animation](divider-animation.gif)
+
+Feel free to reach out to me to discuss collaboration opportunities and explore how my skills can contribute to the success of the BsevenB Next.js Application.
 
 - LinkedIn: [linkedin.com/in/mehrdadhajiyani](https://www.linkedin.com/in/mehrdadhajiyani/)
 - Email: mehrdad@example.com
 
-![Divider Animation](divider-animation.gif)
-
-Thank you for visiting my GitHub profile! I look forward to collaborating and creating impactful projects together.
+Thank you for considering my profile! I'm excited to be part of the BsevenB team and contribute to its growth.
 
